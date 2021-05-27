@@ -11,6 +11,14 @@ For this project, we use the past 5 years [Google stock price data](https://gith
 
 ![Image](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-/blob/main/Plots/Google%20Stock%20Price%20Development.png)
 
+## Steps:
+
+* Importing the Google stock price data.
+* Performing Data Normalization and Data Transformation to prepare the train and test set
+* Modelling the LSTM model and initializing the model parameters
+* Traing the Model and using the trained information to predict the future stock price for Jan 2021
+* Using the available Test Set data for evaluating the predictions
+
 ## Results:
 
 ![Image2](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-/blob/main/Plots/Figure_1.png)
