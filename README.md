@@ -11,3 +11,10 @@ For this project, we use the past 5 years [Google stock price data](https://gith
 
 ![Image](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-/blob/main/Plots/Google%20Stock%20Price%20Development.png)
 
+# Results:
+
+![Image2](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-/blob/main/Plots/Figure_1.png)
+
+Comparing the real and predicted Google stock values that are generated using RNN model, for the first month of 2021. RNN based on 5 LSTMs was able to properly predict all upward and downward trends as we see that the red line corresponding to the predicted stock prices follows the same pattern as the blue line which corresponds the real stock prices.
+
+
