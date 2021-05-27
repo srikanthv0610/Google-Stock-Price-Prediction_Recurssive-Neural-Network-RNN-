@@ -9,4 +9,5 @@ in the past and use this as an indicator to predict the future prices. Long Shor
 
 For this project, we use the past 5 years [Google stock price data](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-/tree/main/Dataset) in the time period of 2016-2020. The goal is to predict the upward or downward trend in the stock price of Google for January 2021.
 
+![Image](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-/blob/main/Plots/Google%20Stock%20Price%20Development.png)
 
