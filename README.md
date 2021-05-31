@@ -1,6 +1,8 @@
 # Google Stock Price Prediction using Recurssive Neural Network (RNN):
  To predict the price of the Google stock, we use Deep Learning, Recurrent Neural Networks with Long Short-Term Memory(LSTM) layers.
  
+ ![Google_Stock](https://github.com/srikanthv0610/Google-Stock-Price-Prediction_Recurssive-Neural-Network-RNN-/blob/main/Plots/Google.png)
+ 
  ## Introduction:
  
  In Quantitative finance, predicting the stock price with high accuracy is a very important and difficult task. Although, it is imposiible to exactly 
