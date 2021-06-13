@@ -5,7 +5,7 @@
  
  ## Introduction:
  
- In Quantitative finance, predicting the stock price with high accuracy is a very important and difficult task. Although, it is imposiible to exactly 
+ In Quantitative finance, predicting the stock price with high accuracy is a very important and difficult task. Although, it is impossible to exactly 
 estimate the stock prices, it is possible to make accurate predictions by using the past stock prices (Theory behind Brownian Motions). We analyse the upward and downward treds
 in the past and use this as an indicator to predict the future prices. Long Short-Term Memory (LSTM) is a more sophisticated version of RNN which addresses the Vanishing Gradient Problem that RNNs often suffer from.
 
